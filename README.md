@@ -14,3 +14,4 @@ this is  a repository made for developers in linux for finding system usage like
 ##How to use 
 1) I recommend to download the **.zip** file and manually add the need files in your cmake
 2) else just copy and paste the header file next to your main.cpp/main.c and use include key word to include them
+3) when ever you call those functions just make sure to make a delay of 0.5 sec or more to avoid getting garbage values
